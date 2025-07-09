@@ -1,9 +1,12 @@
-<!--타이틀 부분-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Jiwon%20'Eugene'-nl-Kang's%20Github&fontSize=90&customColorList=0,2,3" />
 </div>
 
-<!--내용 부분-->
+<div align="left">
+  <h2>Hi!</h2>
+  My name is Jiwon "Eugene" Kang, a Fullstack Engineer with 3+ years of experience. I have worked on various frontend & backend projects.
+</div>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
