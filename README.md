@@ -4,7 +4,7 @@
 My name is Jiwon "Eugene" Kang, a **Fullstack Engineer** with **3+ years** of experience. I have worked on various **frontend** & **backend** projects.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=eug2ne&theme=cobalt)](https://github.com/eug2ne/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eug2ne&layout=compact&langs_count=12)](https://github.com/eug2ne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eug2ne&layout=compact&langs_count=7)](https://github.com/eug2ne/github-readme-stats)
 
 ### Tech Stack 👾
 #### Programming Languages ✍🏻
