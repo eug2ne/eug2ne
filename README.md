@@ -44,4 +44,5 @@ My name is Jiwon "Eugene" Kang, a **Fullstack Engineer** with **3+ years** of ex
 
 ### Contact 📫
 > Email: g1eugenekang@gmail.com
+> 
 > CV: https://docs.google.com/document/d/1swIL_9nX1xXdK18zyKnks3R3gLGdMm_2/edit?usp=sharing&ouid=101603723543880601784&rtpof=true&sd=true
