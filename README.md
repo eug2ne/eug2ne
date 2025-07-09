@@ -2,10 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Jiwon%20'Eugene'-nl-Kang's%20Github&fontSize=90&customColorList=0,2,3" />
 </div>
 
-<div align="left">
-  <h2>Hi!</h2>
-  My name is Jiwon "Eugene" Kang, a Fullstack Engineer with 3+ years of experience. I have worked on various frontend & backend projects.
+## Hi!
+My name is **Jiwon "Eugene" Kang**, a ==Fullstack Engineer== with **3+ years** of experience. I have worked on various **frontend** & **backend** projects.
+
+
+<h3 align="left">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:g1eugenekang@gmail.com">
+    <img
+      src="https://img.shields.io/badge/g1eugenekang@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 </div>
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -58,17 +66,4 @@
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
