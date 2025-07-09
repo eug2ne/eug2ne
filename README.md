@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?theme=rect&color=gradient&customColorList=0,2,3&text=Jiwon%20'Eugene'%20Kang's%20Github)
+![header](https://capsule-render.vercel.app/api?theme=rect&color=gradient&customColorList=0,2,3&text=Jiwon%20'Eugene'%20Kang's%20Github&fontSize=30)
 
 ## Hi! 👋
 My name is Jiwon "Eugene" Kang, a **Fullstack Engineer** with **3+ years** of experience. I have worked on various **frontend** & **backend** projects.
