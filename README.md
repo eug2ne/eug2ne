@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Jiwon%20'Eugene'-nl-Kang's%20Github&fontSize=90&customColorList=0,2,3" />
 </div>
 
-## Hi!
+## Hi! 👋
 My name is **Jiwon "Eugene" Kang**, a ==Fullstack Engineer== with **3+ years** of experience. I have worked on various **frontend** & **backend** projects.
 
 
