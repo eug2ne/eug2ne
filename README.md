@@ -1,7 +1,7 @@
 # Jiwon "Eugene" Kang's Github
 
 ## Hi! 👋
-My name is Jiwon "Eugene" Kang, a **Fullstack Engineer** with **3+ years** of experience. I have worked on various **frontend** & **backend** projects that focus on user-centered experiences across web apps and games. With 3+ years of experience in both creative and technical environments, I love solving problems with clean code, collaborative iteration, and a touch of storytelling.
+My name is Jiwon "Eugene" Kang, a **Fullstack Engineer** with **4+ years** of experience. I have worked on various **frontend** & **backend** projects that focus on user-centered experiences across web apps and games. With 4+ years of experience in both creative and technical environments, I love solving problems with clean code, collaborative iteration, and a touch of storytelling.
 
 ### Tech Stack 👾
 #### Programming Languages ✍🏻
@@ -9,6 +9,7 @@ My name is Jiwon "Eugene" Kang, a **Fullstack Engineer** with **3+ years** of ex
 - JavaScript
 - TypeScript
 - Nodejs
+- PHP
 - Go
 - Python
 - C#
@@ -37,6 +38,7 @@ My name is Jiwon "Eugene" Kang, a **Fullstack Engineer** with **3+ years** of ex
 - Git
 - GitHub
 - WinForms
+- Wordpress
 
 ---
 
